@@ -1,4 +1,4 @@
 hello world
 second update
 third update
-thank god i did it!
+rebase update
